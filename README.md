@@ -4,6 +4,6 @@ The Medicine Expiry Tracker is a Python-based mini project developed to help pha
 PRESENTED BY:-
     K SHYAM,
     K NAVEEN,
-    SHIVA DARSHAN,
+    K SHIVA DARSHAN,
     KOTHAPALLI VAMSHI,
     KOTHAPALLI VARDHAN.
